@@ -21,8 +21,8 @@ Step 3. When you are inside Jupyter Notebook, select TokyoMetro_AntColonyOptimaz
 Step 4. Run TokyoMetro_AntColonyOptimazation_Algorithm_Final.ipynb.
 
 
----Assets---
+
 
 ![Pictures of the webapplication](Images/1.PNG)
 -------------------------------------------------------
-<h3>Register page</h3>
+
