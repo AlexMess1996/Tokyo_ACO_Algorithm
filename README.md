@@ -56,6 +56,3 @@ The ACO algorithm effectively optimized routes in the Tokyo Metro network, demon
 - Hsiao, Y.-T., et al. (2020). Ant colony optimization for best path planning. [Link](https://www.researchgate.net/publication/4135314_Ant_colony_optimization_for_best_path_planning)
 - Tokyo Metro Co., Ltd. Characteristics of Tokyo Metro. [Link](https://www.metro-ad.co.jp/en/characteristic/)
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
